@@ -1,0 +1,1 @@
+Best Pick is a powerful application designed to help users discover the top 3 products within a specified budget and category on Amazon. By leveraging advanced scraping techniques and Natural Language Processing (NLP), Best Pick analyzes user reviews to provide highly accurate product recommendations.
