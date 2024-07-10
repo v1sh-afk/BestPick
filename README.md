@@ -16,3 +16,6 @@ AWS: Hosted on Amazon Web Services for reliable cloud computing.
 SPA: Built as a Single Page Application for a seamless user experience.
 NLTK: Employs the Natural Language Toolkit for NLP tasks.
 GPU: Utilizes GPUs for accelerated deep learning processing.
+
+![image](https://github.com/v1sh-afk/BestPick/assets/120928306/e33d1435-5b53-4a4c-a459-b5ea60d9ee37)
+
